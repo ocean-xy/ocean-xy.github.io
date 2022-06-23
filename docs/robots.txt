@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ocean-xy.github.io/sitemap.xml
