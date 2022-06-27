@@ -21,6 +21,7 @@ home_subtitle = "Ocean-XY is a boutique company developing iOS apps"
 
 hermit_menu = [
     { link = "/timespeak", name = "Timespeak" },
+    { link = "/timespeak_privacy_policy", name = "Timespeak Privacy Policy" },
     { link = "/jobs", name = "Jobs" },
 ]
 
